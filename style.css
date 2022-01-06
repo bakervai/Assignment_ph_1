@@ -13,7 +13,6 @@ h2{
 }
 h3{
     font-size: 25px;
-    margin-top: 0%;
 }
 h4{
     font-size: 20px;
@@ -87,4 +86,48 @@ h4{
 }
 #know_img{
     margin-left: 3%;
+}
+footer{
+    color: snow;
+    text-align: center;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#diff_font{
+    font-family: 'Dancing Script', cursive;
+}
+#contact-me{
+    margin-left: 15%;
+    margin-bottom: 2%;
+}
+#fb{
+    text-decoration: none;
+    background-color: #4267B2;
+    padding: 10px 30px;
+    color: snow;
+    font-weight: 700;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 25%;
+}
+#LnIn{
+    position: static;
+    text-decoration: none;
+    background-color: #0077b5;
+    padding: 10px 30px;
+    color: snow;
+    font-weight: 700;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 35%%;
+}
+#github{
+    text-decoration: none;
+    background-color: #333;
+    padding: 10px 30px;
+    color: snow;
+    font-weight: 700;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px gray;
 }
